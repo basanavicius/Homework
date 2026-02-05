@@ -1,4 +1,4 @@
 # Homework
 Doing my C++ homework.
 
-[main.cpp](Coding/main.cpp)
+[main.cpp](main.cpp)
